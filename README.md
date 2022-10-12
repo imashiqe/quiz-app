@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Getting Started with Quiz Buzz
+
+This is  A Questions answering Applications You  Can  Anser  Your Questions 
+
+Technology Using :-  HTML,CSS, JAVASCRIPT, TAILWINDCSS, DAISY UI , AND React 
+
+This Is The Live Site Link:   https://magenta-puffpuff-c53bd2.netlify.app/
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
