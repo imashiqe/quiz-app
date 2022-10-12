@@ -28,7 +28,7 @@ const Question = ({ question}) => {
 
     return (
         <div className="">
-                  <div className="bg-blue-50 m-2 w-60 md:w-1/2 mx-auto p-16 rounded-2xl relative">
+                  <div className="bg-blue-300 m-2 w-60 md:w-1/2 mx-auto p-16 rounded-2xl relative">
             <p className="text-3xl text-indigo-900 my-3 font-bold">
 
                 {question.question}

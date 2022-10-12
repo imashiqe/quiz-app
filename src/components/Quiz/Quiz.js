@@ -14,7 +14,7 @@ const Quiz = ({ quiz }) => {
 
             <div className="card-actions justify-end">
                 <Link to={`quiz/${id}`}>
-                <button className="btn btn-primary">Lets Answer</button>
+                <button className="btn btn-primary">Lets Start Quiz</button>
                 </Link>
             
             </div>

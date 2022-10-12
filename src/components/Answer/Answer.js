@@ -3,7 +3,7 @@ import React from 'react';
 const Answer = () => {
     return (
         <div className='grid grid-cols-1 md:grid-cols-2 gap-5 my-10 w-3/8 mx-auto'>
-             <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box text-white" >
+             <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box text-dark  bg-dark" >
             <div class="collapse-title text-xl font-medium">
             What is the perpose of reacr router ..?
             </div>
@@ -12,7 +12,7 @@ const Answer = () => {
             </div>
             </div>
             
-             <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box text-white">
+             <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box text-dark bg-dark">
             <div class="collapse-title text-xl font-medium">
             React Context API: What is it and How it works?
             </div>
@@ -22,7 +22,7 @@ const Answer = () => {
             </div>
             </div>
 
-             <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box text-white">
+             <div tabindex="0" class="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box text-dark bg-dark">
             <div class="collapse-title text-xl font-medium">
             why use useref react  ..?
             </div>
