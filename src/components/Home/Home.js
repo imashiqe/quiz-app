@@ -16,6 +16,8 @@ const Home = () => {
         <div className='home-container'>
             <div className='header-container'>
             <img className='w-4/6 mx-auto h-56 rounded-lg mt-5' src={image} alt="" /> 
+
+            <h3 className='text-3xl pt-2 '>Your mind will answer most questions if you learn to relax and wait for the answer.</h3>
               
                 
             </div>
