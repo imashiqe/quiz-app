@@ -15,7 +15,7 @@ const Home = () => {
     return (
         <div className='home-container'>
             <div className='header-container'>
-            <img className='w-4/5 mx-auto h-56 rounded-lg' src={image} alt="" /> 
+            <img className='w-4/6 mx-auto h-56 rounded-lg mt-5' src={image} alt="" /> 
               
                 
             </div>

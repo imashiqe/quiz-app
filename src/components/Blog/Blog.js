@@ -3,8 +3,8 @@ import Answer from '../Answer/Answer';
 
 const Blog = () => {
     return (
-        <div className='mt-28'>
-            <h1 className='text-4xl md:text-6xl font-bold px-3 py-20 md:py-32 wrap'>Three Interview Quesion & Answer</h1>
+        <div className='mt-3'>
+             <h3 className='text-6xl text-white'>Question and Answer</h3>
             <Answer></Answer>
         </div>
     );
