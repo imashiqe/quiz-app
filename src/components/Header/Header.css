@@ -22,3 +22,7 @@
     color: orange;
     transition: all liner 3s;
 }
+
+.header img{
+   width: 50px;
+}
