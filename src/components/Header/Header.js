@@ -4,9 +4,13 @@ import './Header.css';
 const Header = () => {
     return (
         <div>
-            <nav>
-           <Link to='/home'>Home</Link>
-           <Link to='/blog'>Blog</Link>
+             <nav className='header'>
+             {/* <img src={logo} alt="" />  */}
+              <div>
+              <Link to="/">Home</Link>
+              <Link to="/statement">Statement</Link>
+              <Link to="/blog">Blog</Link>
+              </div>
             </nav>
         </div>
     );
