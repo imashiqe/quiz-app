@@ -1,6 +1,6 @@
 # Getting Started with Quiz Buzz
 
-This is  A Questions answering Applications You  Can  Anser  Your Questions 
+This is  A Questions answering Applications You  Can  Answer  Your Questions 
 
 Technology Using :-  HTML,CSS, JAVASCRIPT, TAILWINDCSS, DAISY UI , AND React 
 
